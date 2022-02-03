@@ -15,5 +15,9 @@ Download the Colab-YOLO-Tiny into a zip file.  Just upload the folder with the C
   
   
 ## Step #3: Follow the steps of yolov3_tiny.ipynb
-
+  
+Click the play buttons of the instructions.
 ![image](https://github.com/LILINOpenGitHub/Colab-YOLO-Tiny/blob/main/images/image2.jpg)
+  
+## Step #4: Download the model and convert it at LILIN Self+AI Cloud
+After the training, download the weight to https://ai.meritlilin.com.tw for conversion and firmware packaging.
