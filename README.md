@@ -12,3 +12,8 @@ Double click on the file yolov3_tiny.ipynb via your google account.
 Download the Colab-YOLO-Tiny into a zip file.  Just upload the folder with the COCO dataset to your Google drive.
   
 ![image](https://github.com/LILINOpenGitHub/Colab-YOLO-Tiny/blob/main/images/image3.jpg)
+  
+  
+## Step #3: Follow the steps of yolov3_tiny.ipynb
+
+![image](https://github.com/LILINOpenGitHub/Colab-YOLO-Tiny/blob/main/images/image2.jpg)
